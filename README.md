@@ -6,7 +6,7 @@
 
 ✨ **Full-Stack Developer** • **Open-Source-Enthusiast** • **Web Desinger**  
 🌐 Meine Website: [benedikt-pkr.info](https://benedikt-pkr.info)  
-📫 Kontakt: [hello@benedikt-pkr.info](mailto:contact@benedikt-pkr.info)
+📫 Kontakt: [contact@benedikt-pkr.info](mailto:contact@benedikt-pkr.info)
 
 ---
 
