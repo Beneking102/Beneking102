@@ -10,7 +10,7 @@
 
 ---
 
-## 📊 GitHub Stats      <a href="https://github.com/Beneking102"><img src="https://komarev.com/ghpvc/?username=beneking102&label=Profile%20views&color=0e75b6&style=flat" alt="Github Profilaufrufe" /></a>
+## 📊 GitHub Stats      <a href="https://github.com/Beneking102"><img src="https://komarev.com/ghpvc/?username=beneking102&label=Profile%20views&color=00fe12&style=flat" alt="Github Profilaufrufe" /></a>
 <p align="center">
   <img height="160" src="https://github-readme-stats.vercel.app/api?username=Beneking102&show_icons=true&theme=merko" alt="GitHub Stats"/>
   <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs?username=Beneking102&layout=compact&langs_count=5&theme=merko" alt="Top Languages"/>
