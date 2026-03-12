@@ -73,20 +73,22 @@ A powerful design platform for finding perfect color palettes and themes. Advanc
 
 ### [`DesignTool Hub`](https://designtool.dev)
 
-The only website you'll ever need to kick off a new project. Discover, explore, and integrate the best design resources — all in one place.
+The only website you'll ever need to kick off a new project. Discover, explore, and integrate the best design resources all in one place.
 
 `Web Design` · `UI/UX` · `Design Tools` · `Resources`
 
 </td>
+<tr>
 <td width="50%">
 
-### [`bene-anti-boredom-space - Not Completed Yet :)`](https://github.com/Beneking102/bene-anti-boredom-space)
+### [`bene-design-fonts`](https://bene-design-font-preview.vercel.app)
 
-Three unique browser games in a Turborepo monorepo — DRIFT (physics puzzle), GHOST.SH (terminal hacker investigation), and GRIDLOCK (live OSM traffic management).
+Two custom typefaces built from scratch BeneHack (angular, condensed, cyber) and BeneComic (jittered, rounded, fun). Includes a Tailwind plugin, React BurstText component with animate-on-scroll, and WOFF/TTF distribution via private GitHub Package.
 
-`Turborepo` · `Canvas 2D` · `TypeScript` · `OSM API`
+`fonttools` · `React` · `Tailwind Plugin` · `GitHub Packages` · `BUSL-1.1`
 
 </td>
+<td width="50%"></td>
 </tr>
 </table>
 
