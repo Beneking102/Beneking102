@@ -26,7 +26,7 @@ const bene = {
   role:      ["Full-Stack Developer", "Junior Cybersecurity Consultant", "Open Source Enthusiast"],
   location:  "Bavaria, Germany 🇩🇪",
   website:   "https://benedikt-pkr.info",
-  building:  ["bene-npm-scanner", "ChromaForge", "DesignTool Hub", "bene-anti-boredom-space"],
+  building:  ["bene-guard", "Benedictum", "bene-npm-scanner", "ChromaForge", "DesignTool Hub", "bene-anti-boredom-space"],
   interests: ["Web Security", "Color Theory", "Game Dev", "AI/ML", "UX/UI", "Web Performance"],
 };
 ```
@@ -42,6 +42,33 @@ const bene = {
 [![benedikt-pkr.info](https://img.shields.io/badge/benedikt--pkr.info-→_Visit_Portfolio-00e84a?style=for-the-badge&logo=safari&logoColor=000)](https://benedikt-pkr.info)
 
 </div>
+
+---
+
+## 🔒 Spotlight
+
+<table>
+<tr>
+<td width="50%">
+
+### [`bene-guard`](https://bene-guard-showcase.vercel.app) &nbsp; [![Open VSX](https://img.shields.io/open-vsx/v/beneking102/bene-guard?label=Open%20VSX&color=00e84a&style=flat-square)](https://open-vsx.org/extension/beneking102/bene-guard)
+
+VS Code extension that acts as a real-time security assistant. Scans npm dependencies for CVEs via the OSV API, lints security headers across Next.js / Vercel / Netlify / Helmet configs, generates STRIDE threat models from your codebase, and grades your project A+ through F, all inside the editor.
+
+`TypeScript` · `VS Code API` · `OSV` · `OWASP` · `STRIDE`
+
+</td>
+<td width="50%">
+
+### [`Benedictum`](https://github.com/Beneking102/benedictum) &nbsp; [![Esolangs](https://img.shields.io/badge/esolangs.org-listed-8b5cf6?style=flat-square)](https://esolangs.org/wiki/Benedictum)
+
+A Latin-themed esoteric programming language. 14 commands (`bene`, `male`, `dex`, `dic`, `ora`, `amen`, …), Turing-complete, written in C. Source code reads as flowing prose. Any text that isn't a command is silently ignored. Includes `--gloria` tape debugger, `--lex` tokenizer, and a Python interpreter.
+
+`C99` · `Esolang` · `Brainfuck derivative` · `MIT`
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -73,7 +100,7 @@ A powerful design platform for finding perfect color palettes and themes. Advanc
 
 ### [`DesignTool Hub`](https://designtool.dev)
 
-The only website you'll ever need to kick off a new project. Discover, explore, and integrate the best design resources — all in one place.
+The only website you'll ever need to kick off a new project. Discover, explore, and integrate the best design resources, all in one place.
 
 `Web Design` · `UI/UX` · `Design Tools` · `Resources`
 
@@ -82,7 +109,7 @@ The only website you'll ever need to kick off a new project. Discover, explore, 
 
 ### [`bene-anti-boredom-space`](https://github.com/Beneking102/bene-anti-boredom-space) *(in progress)*
 
-Three unique browser games in a Turborepo monorepo — DRIFT (physics puzzle), GHOST.SH (terminal hacker investigation), and GRIDLOCK (live OSM traffic management).
+Three unique browser games in a Turborepo monorepo DRIFT (physics puzzle), GHOST.SH (terminal hacker investigation), and GRIDLOCK (live OSM traffic management).
 
 `Turborepo` · `Canvas 2D` · `TypeScript` · `OSM API`
 
@@ -93,7 +120,7 @@ Three unique browser games in a Turborepo monorepo — DRIFT (physics puzzle), G
 
 ### [`bene-design-fonts`](https://bene-design-font-preview.vercel.app)
 
-Two custom typefaces built from scratch — BeneHack (angular, condensed, cyber) and BeneComic (jittered, rounded, fun). Includes a Tailwind plugin, React BurstText component with animate-on-scroll, and WOFF/TTF distribution via private GitHub Package.
+Two custom typefaces built from scratch. BeneHack (angular, condensed, cyber) and BeneComic (jittered, rounded, fun). Includes a Tailwind plugin, React BurstText component with animate-on-scroll, and WOFF/TTF distribution via private GitHub Package.
 
 `fonttools` · `React` · `Tailwind Plugin` · `GitHub Packages` · `BUSL-1.1`
 
