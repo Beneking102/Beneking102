@@ -51,7 +51,7 @@ const bene = {
 <tr>
 <td width="50%">
 
-### [`bene-guard`](https://bene-guard-showcase.vercel.app) &nbsp; [![Open VSX](https://img.shields.io/open-vsx/v/beneking102/bene-guard?label=Open%20VSX&color=00e84a&style=flat-square)](https://open-vsx.org/extension/beneking102/bene-guard)
+<h3><a href="https://bene-guard-showcase.vercel.app">bene-guard</a> &nbsp; <a href="https://open-vsx.org/extension/beneking102/bene-guard"><img src="https://img.shields.io/open-vsx/v/beneking102/bene-guard?label=Open%20VSX&color=00e84a&style=flat-square" alt="Open VSX" /></a></h3>
 
 VS Code extension that acts as a real-time security assistant. Scans npm dependencies for CVEs via the OSV API, lints security headers across Next.js / Vercel / Netlify / Helmet configs, generates STRIDE threat models from your codebase, and grades your project A+ through F, all inside the editor.
 
@@ -60,12 +60,22 @@ VS Code extension that acts as a real-time security assistant. Scans npm depende
 </td>
 <td width="50%">
 
-### [`Benedictum`](https://github.com/Beneking102/benedictum) &nbsp; [![Esolangs](https://img.shields.io/badge/esolangs.org-listed-8b5cf6?style=flat-square)](https://esolangs.org/wiki/Benedictum)
+<h3><a href="https://github.com/Beneking102/benedictum">Benedictum</a> &nbsp; <a href="https://esolangs.org/wiki/Benedictum"><img src="https://img.shields.io/badge/esolangs.org-listed-8b5cf6?style=flat-square" alt="Esolangs" /></a></h3>
 
 A Latin-themed esoteric programming language. 14 commands (`bene`, `male`, `dex`, `dic`, `ora`, `amen`, …), Turing-complete, written in C. Source code reads as flowing prose. Any text that isn't a command is silently ignored. Includes `--gloria` tape debugger, `--lex` tokenizer, and a Python interpreter.
 
 `C99` · `Esolang` · `Brainfuck derivative` · `MIT`
 
+</td>
+</tr>
+<tr>
+<td colspan="2">
+
+<h3><a href="https://bene-ui.vercel.app">bene-ui</a> &nbsp; <a href="https://www.npmjs.com/package/@bene-npm/shield-ui"><img src="https://img.shields.io/npm/v/@bene-npm/shield-ui?color=00e84a&style=flat-square" alt="NPM" /></a></h3>
+
+Security-themed React component library for dashboards, scanners, and threat visualization tools.
+
+`Preview` · `UI` · `NPM`
 </td>
 </tr>
 </table>
