@@ -21,6 +21,12 @@
 
 ---
 
+## 🎬 Showreel
+
+https://github.com/user-attachments/assets/c311bbd0-bb39-4474-9bac-1c8690fd4121
+
+---
+
 ```ts
 const bene = {
   role:      ["Full-Stack Developer", "Junior Cybersecurity Consultant", "Open Source Enthusiast"],
